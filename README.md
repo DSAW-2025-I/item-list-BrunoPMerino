@@ -3,6 +3,8 @@
 
 ![Vista previa del diseño para el desafío de codificación de Lista de productos con carrito](./preview.jpg)
 
+https://dsaw-2025-i.github.io/item-list-BrunoPMerino/
+
 ## El desafío
 
 Tu desafío es **leer correctamente**, además desarrollar este proyecto de lista de productos que incluye un carrito funcional y lograr que se vea lo más parecido posible al diseño.
